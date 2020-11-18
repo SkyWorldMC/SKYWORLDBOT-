@@ -1,7 +1,7 @@
 module.exports = {
-    "token": "the bot token",
-    "prefix": "the bot prefix",
-    "owners": ["your owner id (they can be multiple too)"],
-    "host": "your lavalink host (port must be 2333)",
-    "hostpassw": "your lavalink host password"
+    "token": "Nzc4NjIwMzg2ODE5NTcxNzQ3.X7Uovg.l7t6wBPPVd_DmbFcFP9-NxSGG0M",
+    "prefix": "!",
+    "owners": ["660386189819510828"],
+    "host": "https://skyworldbot.herokuapp.com",
+    "hostpassw": ""
 }
